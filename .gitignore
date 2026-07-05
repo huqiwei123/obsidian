@@ -1,8 +1,8 @@
 # macOS
 .DS_Store
 
-# Obsidian workspace (changes frequently, personal state)
-.obsidian/workspace.json
+# Obsidian config (plugins/themes/settings managed per device)
+.obsidian/
 
 # Claudian session files (auto-generated)
 .claudian/
