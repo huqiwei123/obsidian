@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Obsidian workspace (changes frequently, personal state)
+.obsidian/workspace.json
+
+# Claudian session files (auto-generated)
+.claudian/
